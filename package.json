@@ -21,7 +21,7 @@
 		"registry": "https://registry.npmjs.org/"
 	},
 	"bin": {
-		"packageCommand": "./dist/index.mjs"
+		"mermaid-grammer-inspector": "./dist/index.mjs"
 	},
 	"repository": {
 		"type": "git",
