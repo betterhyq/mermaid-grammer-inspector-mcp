@@ -1,12 +1,9 @@
-# Mermaid Grammer Inspector
+# <img src="https://mermaid.js.org/favicon.svg" height="24"/> Mermaid Grammer Inspector
 
-<!-- automd:badges license color=yellow -->
-
-[![npm version](https://img.shields.io/npm/v/@betterhyq/mermaid-grammer-inspector-mcp?color=yellow)](https://npmjs.com/package/@betterhyq/mermaid-grammer-inspector-mcp)
+[![mcp server](https://badge.mcpx.dev?type=server 'MCP Server')](https://modelcontextprotocol.io/docs/getting-started/intro)
+[![npm version](https://img.shields.io/npm/v/@betterhyq/mermaid-grammer-inspector-mcp?color=orange)](https://npmjs.com/package/@betterhyq/mermaid-grammer-inspector-mcp)
 [![npm downloads](https://img.shields.io/npm/dm/@betterhyq/mermaid-grammer-inspector-mcp?color=yellow)](https://npm.chart.dev/@betterhyq/mermaid-grammer-inspector-mcp)
 [![license](https://img.shields.io/github/license/betterhyq/mermaid_grammer_inspector_mcp?color=yellow)](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/blob/main/LICENSE)
-
-<!-- /automd -->
 
 A Model Context Protocol (MCP) server for validating Mermaid diagram syntax and providing comprehensive grammar checking capabilities
 
