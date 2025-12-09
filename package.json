@@ -48,12 +48,14 @@
 		"prepublishOnly": "pnpm run build",
 		"postinstall": "npx puppeteer browsers install chrome-headless-shell"
 	},
-	"dependencies": {
+	"peerDependencies": {
 		"@mermaid-js/mermaid-cli": "11.12.0",
+		"puppeteer": "23.11.1"
+	},
+	"dependencies": {
 		"@modelcontextprotocol/sdk": "1.24.3",
 		"commander": "14.0.2",
 		"fastmcp": "3.25.3",
-		"puppeteer": "23.11.1",
 		"zod": "4.1.13"
 	},
 	"devDependencies": {
