@@ -1,1 +1,38 @@
 # Changelog
+
+## v0.0.1
+
+
+### 🚀 Enhancements
+
+- Finish the base function ([46120eb](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/46120eb))
+
+### 🔥 Performance
+
+- Switch to english ([7ff8bfc](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/7ff8bfc))
+
+### 🩹 Fixes
+
+- Fix the puppeteer not installed ([cd4f404](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/cd4f404))
+
+### 📖 Documentation
+
+- Run automd ([4ff7bd0](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/4ff7bd0))
+
+### 🏡 Chore
+
+- Ignore the joycode dir for biome ([f3fff4c](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/f3fff4c))
+- Add test fixtures ([e8119bc](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/e8119bc))
+- 修复代码问题 ([e6e3bbf](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/e6e3bbf))
+- Fix the formatter issue ([db60d69](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/db60d69))
+- Update package.json description ([c035f11](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/c035f11))
+
+### ✅ Tests
+
+- Fully test the code ([dd90700](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/dd90700))
+- Fix the test info ([f0beb49](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/f0beb49))
+
+### ❤️ Contributors
+
+- Heyongqi10 <heyongqi10@jd.com>
+
