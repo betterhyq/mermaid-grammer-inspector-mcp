@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.0.6
+
+[compare changes](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/compare/v1.0.5...v1.0.6)
+
+### 🏡 Chore
+
+- Update the package.json ([d0be48f](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/commit/d0be48f))
+
+### ❤️ Contributors
+
+- Heyongqi10 <heyongqi10@jd.com>
+
 ## v1.0.5
 
 [compare changes](https://github.com/betterhyq/mermaid_grammer_inspector_mcp/compare/v1.0.4...v1.0.5)
