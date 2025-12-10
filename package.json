@@ -21,11 +21,11 @@
 		"registry": "https://registry.npmjs.org/"
 	},
 	"bin": {
-		"mermaid-grammer-inspector": "./dist/index.mjs"
+		"mermaid-grammer-inspector": "dist/index.mjs"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/betterhyq/mermaid_grammer_inspector_mcp"
+		"url": "git+https://github.com/betterhyq/mermaid_grammer_inspector_mcp.git"
 	},
 	"scripts": {
 		"test": "vitest run",
